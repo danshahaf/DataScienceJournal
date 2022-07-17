@@ -22,7 +22,7 @@ function Sections() {
                     Disney 
                 </button>
                 <button className='section' onClick={() => setApi(api => api = 'salaries')}> 
-                    Disney 
+                    Salaries
                 </button>
             </div>
             <div className='notebook-container'>
