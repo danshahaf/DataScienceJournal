@@ -2,7 +2,22 @@ div.topbar {
     background: black;
     color: white;
     padding: 1.5% 5%;
-    display: flex;
     text-align: left;
     border-bottom: 4px solid rgb(255, 114, 114);
+    font-size: 30px;
+    font-weight: bolder;
+}
+div.topbar h1 {
+    font-size: 34px;
+    font-weight: bolder;
+    margin: 0px !important;
+}
+div.topbar h4 {
+    font-size: 14px;
+    font-weight: bolder;
+    margin: 0px !important;
+}
+
+div.topbar h4 a {
+    text-decoration: underline;
 }

@@ -24,6 +24,10 @@ function Sections() {
                 <button className='section' onClick={() => setApi(api => api = 'salaries')}> 
                     Salaries
                 </button>
+                <button className='section' onClick={() => setApi(api => api = 'housing')}> 
+                    Housing
+                </button>
+                
             </div>
             <div className='notebook-container'>
                 <JupyterNotebookViewer

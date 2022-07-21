@@ -12,6 +12,7 @@ class Topbar extends React.Component {
         return(
             <div className='topbar'>
                 <h1> Data Sciece Journal </h1>
+                <h4> by <a class = "link"  href = "https://shahaf-dan.com">Shahaf Dan</a></h4>
             </div>
         )
     }
