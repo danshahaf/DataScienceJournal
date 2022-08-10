@@ -1,5 +1,5 @@
 div.brief {
-    padding: 40px 130px;
-    border-bottom: 4px solid rgb(255, 114, 114);
-    font-size: 18px;
+    padding: 30px 130px;
+    /* border-bottom: 4px solid rgb(255, 114, 114); */
+    font-size: 15px;
 }

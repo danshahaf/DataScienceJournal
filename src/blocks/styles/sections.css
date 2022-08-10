@@ -1,12 +1,13 @@
 div.sections {
-    padding: 20px 70px;
-    border-bottom: 4px solid rgb(255, 114, 114);
+    padding: 40px 70px;
+    /* border-bottom: 4px solid rgb(255, 114, 114); */
     display: grid;
     background-color: white;
+    background-color: rgba(251, 140, 140, 0.293);
 
     /* justify-items: center; */
     justify-content: center;
-    grid-gap: 30px;
+    grid-gap: 20px;
     grid-template-columns: repeat(5, 1fr);
 }
 
@@ -14,9 +15,9 @@ button.section {
     border-radius: 0px;
     border: 3px solid rgb(255, 114, 114);
     padding: 12px 30px;
-    background-color: rgba(251, 140, 140, 0.106);
+    background-color: rgba(251, 140, 140, 0.504);
     font-weight: bolder;
-    font-size: 16px;
+    font-size: 14px;
     width: 100%;
     text-decoration: none;
     color: black;
